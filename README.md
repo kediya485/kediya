@@ -1,3 +1,3 @@
 # kediya
-this is my first project on git repository
+This is my first project on Git Repository
 Author : Amit Mahto
